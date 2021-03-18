@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="lengthButtonDesc">Button to convert input length to other measurement type</string>
+    <string name="tempButtonDesc">Button to convert input temperature</string>
+    <string name="weightButtonDesc">Button to convert input weight</string>
+    <string-array name="input_types">
+        <item>Metre</item>
+        <item>Celsius</item>
+        <item>Kilogram</item>
+    </string-array>
+</resources>
